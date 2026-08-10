@@ -39,6 +39,6 @@
 
 ## 📚说明：
 
-此项目由Github社区用户Hmn(realMrHu)开发。[点击此处加我的QQ。](https://qm.qq.com/q/SVnNSQFpSc)
+此项目由Github社区用户Hmn(realMrHu)开发[点击此处加我的QQ](https://qm.qq.com/q/SVnNSQFpSc)
 
 本人拥有此项目的最终解释权。
