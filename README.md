@@ -6,7 +6,7 @@
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/)(若您已经安装请忽略该步骤)
    
-2. 点击蓝字安装 [插件](https://raw.githubusercontent.com/realMrHu/websource-view/main/WebSource-View.js)
+2. 点击蓝字安装 [插件](https://raw.githubusercontent.com/realMrHu/websource-view/main/WebSource-View.user.js)
   
 3. 完成安装，建议阅读以下内容
 
