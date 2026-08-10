@@ -1,16 +1,19 @@
+# ⚠️Warning 
+# 本仓库自2026年8月10日起不再进行维护个更新
+
 # 🔍 WebSource-View
 
-基于JavaScript的源码查看和下载插件
+一个轻量,美观的源码查看和下载脚本
 
 ## ✨安装:
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/)(若您已经安装请忽略该步骤)
    
-2. 点击蓝字安装 [插件](https://raw.githubusercontent.com/realMrHu/websource-view/main/WebSource-View.user.js)
+2. 点击蓝字安装 [脚本](https://raw.githubusercontent.com/realMrHu/websource-view/main/WebSource-View.user.js)
   
 3. 完成安装，建议阅读以下内容
 
-4. 如果您喜欢本项目的话请点个Star，谢谢
+4. 如果您喜欢本项目的话请为本仓库点个Star，谢谢
 
 ## ❤️使用教程:
 
