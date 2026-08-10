@@ -8,7 +8,7 @@
    
 2. 点击蓝字安装 [插件](https://raw.githubusercontent.com/realMrHu/websource-view/main/WebSource-View.user.js)
   
-3. 完成安装，建议阅读以下内容。如果喜欢本项目的话欢迎请Star，谢谢
+3. 完成安装，建议阅读以下内容。如果喜欢本项目的话欢迎Star，谢谢
 
 ## ❤️使用教程:
 
